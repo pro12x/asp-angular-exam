@@ -1,0 +1,330 @@
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\ApiAngular.dll.config
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\ApiAngular.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\ApiAngular.pdb
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\csc.exe
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\csc.exe.config
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\csc.rsp
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\csi.exe
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\csi.exe.config
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\csi.rsp
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.AppContext.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Console.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.IO.Compression.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Net.Http.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.ValueTuple.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\vbc.exe
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\vbc.exe.config
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\vbc.rsp
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\VBCSCompiler.exe
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Antlr3.Runtime.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\BCrypt.Net-Next.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\EntityFramework.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\EntityFramework.SqlServer.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Jwt.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Newtonsoft.Json.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Owin.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Buffers.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Memory.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Net.Http.Formatting.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Numerics.Vectors.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Text.Encodings.Web.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Text.Json.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.ValueTuple.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Cors.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Helpers.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Http.Cors.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Http.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Http.Owin.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Http.WebHost.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Mvc.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Optimization.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Razor.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.WebPages.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.WebPages.Razor.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\WebGrease.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\BCrypt.Net-Next.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Jwt.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Buffers.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Memory.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Numerics.Vectors.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Text.Encodings.Web.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Text.Json.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.ValueTuple.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Http.Cors.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Newtonsoft.Json.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Net.Http.Formatting.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Helpers.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Http.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Http.WebHost.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Mvc.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Optimization.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Razor.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.WebPages.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.WebPages.Razor.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Antlr3.Runtime.pdb
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\EntityFramework.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\EntityFramework.SqlServer.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\System.Web.Http.Owin.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\System.Web.Http.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\bin\fr\System.Web.Http.Owin.resources.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\obj\Debug\ApiAngular.csproj.AssemblyReference.cache
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\obj\Debug\ApiAngular.csproj.CoreCompileInputs.cache
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\obj\Debug\ApiAngular.csproj.CopyComplete
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\obj\Debug\ApiAngular.dll
+C:\Users\Che Guevara\source\repos\ApiAngular\ApiAngular\obj\Debug\ApiAngular.pdb
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\ApiAngular.dll.config
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\ApiAngular.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\ApiAngular.pdb
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\csc.exe
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\csc.exe.config
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\csc.rsp
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\csi.exe
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\csi.exe.config
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\csi.rsp
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\Microsoft.Managed.Core.targets
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.AppContext.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Collections.Immutable.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Console.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Globalization.Calendars.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.IO.Compression.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.IO.FileSystem.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Net.Http.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Net.Sockets.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Reflection.Metadata.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.ValueTuple.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Xml.XmlDocument.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Xml.XPath.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\vbc.exe
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\vbc.exe.config
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\vbc.rsp
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\VBCSCompiler.exe
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\roslyn\VBCSCompiler.exe.config
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Antlr3.Runtime.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\BCrypt.Net-Next.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\EntityFramework.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\EntityFramework.SqlServer.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.AspNet.Identity.Core.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.Abstractions.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.Logging.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.Tokens.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Cookies.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Facebook.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Google.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Jwt.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.OAuth.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Twitter.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Web.Infrastructure.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Newtonsoft.Json.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Owin.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Buffers.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Memory.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Net.Http.Formatting.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Numerics.Vectors.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Text.Encodings.Web.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Text.Json.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Threading.Tasks.Extensions.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.ValueTuple.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Cors.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Helpers.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Http.Cors.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Http.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Http.Owin.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Http.WebHost.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Mvc.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Optimization.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Razor.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.WebPages.Deployment.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.WebPages.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.WebPages.Razor.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\WebGrease.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\BCrypt.Net-Next.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.Abstractions.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.Logging.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.IdentityModel.Tokens.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Jwt.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Buffers.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Memory.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Numerics.Vectors.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Text.Encodings.Web.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Text.Json.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Threading.Tasks.Extensions.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.ValueTuple.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Http.Cors.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Newtonsoft.Json.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Net.Http.Formatting.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Helpers.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Http.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Http.WebHost.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Mvc.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Optimization.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Razor.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.WebPages.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.WebPages.Deployment.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.WebPages.Razor.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Antlr3.Runtime.pdb
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\EntityFramework.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\EntityFramework.SqlServer.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.AspNet.Identity.Core.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Facebook.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Cookies.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Google.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.Twitter.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.Owin.Security.OAuth.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\System.Web.Http.Owin.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\System.Net.Http.Formatting.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\System.Web.Helpers.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\System.Web.Http.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\System.Web.Http.WebHost.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\System.Web.Mvc.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\System.Web.Optimization.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\System.Web.Razor.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\System.Web.WebPages.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\bin\fr\System.Web.Http.Owin.resources.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\obj\Debug\ApiAngular.csproj.AssemblyReference.cache
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\obj\Debug\ApiAngular.csproj.CoreCompileInputs.cache
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\obj\Debug\ApiAngular.csproj.CopyComplete
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\obj\Debug\ApiAngular.dll
+D:\MASTER_1\ASP.NET\Projects\ApiAngular\ApiAngular\obj\Debug\ApiAngular.pdb
